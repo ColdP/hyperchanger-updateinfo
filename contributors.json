@@ -1,0 +1,32 @@
+[
+  {
+    "name": "btm_m",
+    "avatar": "https://avatars.githubusercontent.com/u/43920256?v=4",
+    "github_link": "https://github.com/ColdP",
+    "description": {
+      "zh": "核心开发者",
+      "en": "Core developer",
+      "ja": "コア開発者"
+    }
+  },
+  {
+    "name": "芥子",
+    "avatar": "https://avatars.githubusercontent.com/u/61372168?v=4",
+    "github_link": "https://github.com/1812z",
+    "description": {
+      "zh": "贡献了状态栏的部分代码",
+      "en": "Contributed code for the status bar",
+      "ja": "ステータスバーのコードの一部を貢献"
+    }
+  },
+  {
+    "name": "zyl6932",
+    "avatar": "https://avatars.githubusercontent.com/u/161262739?v=4",
+    "github_link": "https://github.com/zyl6932",
+    "description": {
+      "zh": "贡献了音乐锁屏相关代码",
+      "en": "Contributed code for the music lockscreen",
+      "ja": "音楽ロックスクリーン関連のコードを貢献"
+    }
+  }
+]
