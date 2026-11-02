@@ -38,5 +38,15 @@
 "en": "Contributed code for environment detection and partial UI",
 "ja": "環境検出と一部のUIコードを貢献"
 }
+},
+{
+"name": "antimimitic",
+"avatar": "https://avatars.githubusercontent.com/u/199315543?v=4",
+"github_link": "https://github.com/antimimitic",
+"description": {
+"zh": "贡献了桌面入场动画相关代码",
+"en": "Contributed code for desktop entrance animation",
+"ja": "デスクトップ入場アニメーション関連のコードを貢献"
+}
 }
 ]
