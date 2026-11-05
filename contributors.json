@@ -48,5 +48,15 @@
 "en": "Contributed code for desktop entrance animation",
 "ja": "デスクトップ入場アニメーション関連のコードを貢献"
 }
+},
+{
+"name": "Hollowden",
+"avatar": "https://avatars.githubusercontent.com/u/143360579?v=4",
+"github_link": "https://github.com/Hollowden",
+"description": {
+"zh": "贡献了 OS4.0.4.0 Dock 适配、解锁入场动画及 iOS 通知中心清除交互修复",
+"en": "Contributed OS4.0.4.0 Dock support and fixes for unlock entrance animations and iOS notification center clearing interactions",
+"ja": "OS4.0.4.0 の Dock 対応、ロック解除時の入場アニメーションと iOS 通知センターのクリア操作の修正を貢献"
+}
 }
 ]
