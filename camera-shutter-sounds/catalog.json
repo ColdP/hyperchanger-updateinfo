@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "name": "Canon T50",
+      "file": "canon-t50.wav",
+      "sha256": "982f41f5242001e57f5db32bac918c1bf73fb9c13e9a6c58537c05f7bda65f6f",
+      "attribution": "Canon T50 recording by Francois C · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Canon_T50_shutter_noise.ogg · Extracted 0.42–1.18 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    },
+    {
+      "name": "Nikon D7100",
+      "file": "nikon-d7100.wav",
+      "sha256": "6303254f356c9bd0c13a3a64b402626ac28ff66ed31783014250fe12e15ceb8a",
+      "attribution": "Nikon D7100 recording by Khjhs60217 · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:D7100_shot_sound_at_Continous_High(7fps).wav · Extracted 0.46–1.02 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    },
+    {
+      "name": "Sony A7 IV",
+      "file": "sony-a7-iv.wav",
+      "sha256": "362ce9b272b41fb206b8293a1153bc09ca1b65d857fb6540b38ba1151da854ab",
+      "attribution": "Sony A7 IV recording by jeiteerei · CC0 1.0 · https://freesound.org/people/jeiteerei/sounds/790442/ · Extracted 6.40–6.85 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    },
+    {
+      "name": "Fujifilm X-T3",
+      "file": "fujifilm-x-t3.wav",
+      "sha256": "7547df893d669d0f69bdb5ccc281ce9dfc1a6945cd4c899bfca674fd02bfcf0b",
+      "attribution": "Fujifilm X-T3 recording by boredomfounder · CC0 1.0 · https://freesound.org/people/boredomfounder/sounds/815501/ · Extracted 1.15–1.78 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    },
+    {
+      "name": "Olympus E-PL1",
+      "file": "olympus-e-pl1.wav",
+      "sha256": "3cdc90039432d845630ffed0fca4a1126833ca62adee1c97b7953b47821c503d",
+      "attribution": "Olympus E-PL1 recording by martinbeltov · CC0 1.0 · https://freesound.org/people/martinbeltov/sounds/173110/ · Extracted 4.87–5.50 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    },
+    {
+      "name": "Pentax MZ-7",
+      "file": "pentax-mz-7.wav",
+      "sha256": "22efcc54d43bdddd60db4739bf0034aa32601837559fa5ad2c7dd7a2455c7193",
+      "attribution": "Pentax MZ-7 recording by AudioSea · CC0 1.0 · https://freesound.org/people/AudioSea/sounds/645335/ · Extracted 0.00–0.57 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    },
+    {
+      "name": "Leica M10",
+      "file": "leica-m10.wav",
+      "sha256": "747c2b8c4670f85689598133ccaf2426ef9f51c88c841a9adc7fa65c15add5f1",
+      "attribution": "Leica M10 recording by alexradsby · CC0 1.0 · https://freesound.org/people/alexradsby/sounds/813225/ · Extracted 0.00–0.60 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    },
+    {
+      "name": "Hasselblad 500 C",
+      "file": "hasselblad-500-c.wav",
+      "sha256": "d202ef26fabc8cb3f763e98121c06bef98494aa5e011fde1bc464a5b98d5e8a2",
+      "attribution": "Hasselblad 500 C recording by Tonik1105 · CC0 1.0 · https://freesound.org/people/Tonik1105/sounds/520683/ · Extracted 0.73–1.30 s; mono PCM16 44.1 kHz, peak -3 dBFS, 3 ms edge fades."
+    }
+  ]
+}
